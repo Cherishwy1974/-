@@ -1,0 +1,5 @@
+{
+  "name": "AI 3D Math Teacher",
+  "description": "A fully interactive 3D digital avatar teacher that mimics your handwriting via IK, recognizes math formulas using Gemini Vision, and interacts with 3D geometric models.",
+  "requestFramePermissions": []
+}
